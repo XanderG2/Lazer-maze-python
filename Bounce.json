@@ -1,0 +1,22 @@
+{
+  "/": {
+    "up": "right",
+    "down": "left",
+    "right": "up",
+    "left": "down"
+  },
+  "\\": {
+    "up": "left",
+    "down": "right",
+    "right": "down",
+    "left": "up"
+  },
+  "-": {
+    "up": "down",
+    "down": "up"
+  },
+  "|": {
+    "right": "left",
+    "left": "right"
+  }
+}
